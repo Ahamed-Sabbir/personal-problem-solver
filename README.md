@@ -1,25 +1,3 @@
-﻿![](Aspose.Words.40ad7b41-5165-42a5-a0dc-853796dfd8c8.001.png)
-
-**Daffodil International University Object Oriented Concept** 
-
-` `**(SE211) ![](Aspose.Words.40ad7b41-5165-42a5-a0dc-853796dfd8c8.002.png)**
-
-***Submission by:*** 
-
-`                                          `**Name :** Sabbir Ahamed Mridha 
-
-`       `**I’d no :** 201-35-2988 
-
-**Department        :**  Software Engineering 
-
-`                                          `**Sec**                   :  A 
-
-***Submitted  To:*** 
-
-**Course Teacher’s name: Farzana Sadia**              **Designation:** Assistant Professor, Department of SWE, DIU 
-
-**07-08-2021** 
-
 **ESSENCE** 
 
 As it is a basic object oriented concept project using JAVA language, I am developing a system for some **real-life problem solution**. It may not be up to the mark because that’s a basic project, but the idea will be same and implementation can be better in some experienced hands. Those real-life problem features which are added to this system are not enough, anytime any features can be added to system. Here, I’m implementing some problem’s solution which I recently faced at the time problem solving.  
